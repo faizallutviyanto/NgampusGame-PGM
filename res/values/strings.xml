@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">NGAMPUS</string>
+	<string name="tv_xmllayoutexample_above">You can put <b>one</b> <i>AndEngine</i> View into any Activity.</string>
+	<string name="tv_xmllayoutexample_below">Lorem ipsum dolor sit amat...</string>
+</resources>
